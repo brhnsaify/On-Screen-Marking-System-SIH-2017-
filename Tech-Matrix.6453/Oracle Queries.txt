@@ -1,0 +1,18 @@
+create table resultstore(srno number, copyno number, marksalloted varchar2(100), status nummer, seq varchar2(100),fid2 varchar2(3))
+create table storefinal(copyno number,srno number,qseq varchar2(100),zipstore blob,fid varchar2(3))
+create table temp(qseq number not null,marks number not null)
+create table temp3(qseq number not null,saimage blob)
+create table temphead(qseq number not null,marks number not null)
+create table TempHead3(Qseq number not null, SAImage Blob);
+create table SAnswer(questionno number not null, saimage blob)
+create table myimages5(image blob)
+create table myimages6(image blob)
+create table maxmarks(question number not null, marks number not null)
+
+=======================================================================================
+NOTE: 
+SANSWER, MAXMARKS 
+these two tables have to be fed their values manually while creating the question paper.
+
+
+        

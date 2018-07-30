@@ -1,0 +1,50 @@
+1) Team Name       : Tech-Matrix
+2) Title of idea   : Optimizing the limitations of on-screen marking system
+3) i4c id          : 6453
+4) College Name    : Swami Vivekanand College of Engineering,Indore(M.P)
+5) Name Of members : 
+                     Team Members:-
+                     			Priya Parwani(Team Leader)
+                     			Burhanuddin Saify
+                     			Jatin Telang
+                     			Mahip Modh
+                     			Mradul Gupta
+                     			Neeraj Vyas
+                     Team Mentors:-     
+                                        Mr. Ankit Deo
+                                        Ms. Deepika Chauhan
+
+6) Tech stack      : Software requirements:-
+
+							Frontend		Backend  
+                                			-------------           -----------
+		
+			 IDE				Neatbeans 8.2		Oracle 11 G Express edition
+
+
+ 		         Programminglanguage	        Core Java               MySQL
+                     
+                     
+	            System requirements:-
+					1) Operating System         : Windows 7/8/8.1/10
+					2) Processor                : Intel Pentium 3g
+					3) Hard-disk(space)required : 20 GB
+					4) RAM required             : 2 GB or higher
+					5) JVM                      : JDK8.1
+					6) Windows Requirement      : Windows NT Server
+					7) Network Protocol         : TCP/Ip with SSL
+					8) API Required	            : ZXing API(Barcodes scanner).			 				
+
+
+Note: Used APIs are open source packages and should be included in libraries of java program while execution,and which are enclosed in the folder.
+
+
+
+
+
+
+
+
+
+
+                        
